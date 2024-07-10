@@ -466,7 +466,7 @@ body {
 .Last-text {
   display: flex;
   justify-content: center;
-  background-color: #ffc09f;
+  /*background-color: #ffc09f;*/
 }
 .Last-text p {
   margin-top: 2.978vw;
