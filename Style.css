@@ -474,6 +474,13 @@ Main{
     border: 0.25vw solid #E64F00;
     background-color: white;
 }
+#Sample{
+  margin-right: 17.5%;
+}
+#Yellow {
+  margin-top: 2.978vw;
+  background-color: #ffee93;
+}
 #In-process-img{
     width: 18vw;
     margin-left: 6.548vw;
@@ -542,6 +549,12 @@ Main{
         margin-left: 4.5vw;
         margin-top: 50%;
     }
+    #Sample{
+      margin-right: 4.375%;
+    }
+    #Sample h2{
+      font-size: 4.25vw;
+    }
     #In-process-text{
         margin-right: 5%;
     }
@@ -593,8 +606,12 @@ Main{
             margin-left: 4.5vw;
             margin-top: 25%;
         }
+        #Sample{
+          margin-right: 4%;
+        }
         #In-process-text{
-            margin-right: 10vw;
+            margin-left: 9%;
+            margin-right: 5%;
         }
     }
 }

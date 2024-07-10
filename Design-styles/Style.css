@@ -440,6 +440,7 @@ body {
 }
 .Stage img {
   width: 66.667vw;
+  margin-top: 10px;
 }
 #Yellow {
   background-color: #ffee93;
@@ -449,6 +450,7 @@ body {
 }
 .Stage-vertical-images {
   width: 66.667vw;
+  margin-top: 10px;
   display: flex;
   justify-content: space-between;
 }
